@@ -28,11 +28,11 @@ cd EventBooking.Web
 
 
 Install DependenciesRestore NuGet packages for the project:
-Microsoft.EntityFrameworkCore.SqlServer
-Microsoft.EntityFrameworkCore.Tools
-Microsoft.EntityFrameworkCore.Design
-Newtonsoft.Json
-Microsoft.AspNetCore.Identity.EntityFrameworkCore -Version 8.0.2
+Microsoft.EntityFrameworkCore.SqlServer,
+Microsoft.EntityFrameworkCore.Tools,
+Microsoft.EntityFrameworkCore.Design,
+Newtonsoft.Json,
+Microsoft.AspNetCore.Identity.EntityFrameworkCore -Version 8.0.2,
 dotnet restore
 
 
