@@ -1,0 +1,126 @@
+﻿@model UserModel
+
+<div class="max-w-md mx-auto bg-white rounded-lg shadow-lg p-6">
+    <h1 class="text-3xl font-bold text-gray-800 text-center mb-6">Login</h1>
+    <form method="post" class="space-y-4" asp-controller="Users" asp-action="Login">
+        <div asp-validation-summary="ModelOnly" class="text-red-500 text-sm"></div>
+        <input asp-for="ReturnUrl" type="hidden" />
+        <div>
+            <label asp-for="Email" class="block text-gray-700">Email</label>
+            <input asp-for="Email" class="w-full p-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-600" placeholder="Enter your email" />
+            <span asp-validation-for="Email" class="text-red-500 text-sm"></span>
+        </div>
+        <div>
+            <label asp-for="Password" class="block text-gray-700">Password</label>
+            <input asp-for="Password" type="password" class="w-full p-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-600" placeholder="Enter your password" />
+            <span asp-validation-for="Password" class="text-red-500 text-sm"></span>
+        </div>
+        <button type="submit" class="w-full bg-blue-600 text-white p-2 rounded-lg hover:bg-blue-700">Login</button>
+    </form>
+    <p class="text-center text-gray-600 mt-4">Don't have an account? <a asp-controller="Users" asp-action="Register" asp-route-returnUrl="@Model.ReturnUrl" class="text-blue-600 hover:underline">Register</a></p>
+</div>
+
+@section Scripts {
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.3/jquery.validate.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validation-unobtrusive/3.2.12/jquery.validate.unobtrusive.min.js"></script>
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@* @model UserModel
+
+
+   <!-- breadcrumb start -->
+    <div class="breadcrumb-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-6">
+                    <div class="page-title">
+                        <h2>customer's login</h2>
+                    </div>
+                </div>
+                <div class="col-sm-6">
+                    <nav aria-label="breadcrumb" class="theme-breadcrumb">
+                        <ol class="breadcrumb">
+                            <li class="breadcrumb-item"><a href="index.html">Home</a></li>
+                            <li class="breadcrumb-item active">login</li>
+                        </ol>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- breadcrumb End -->
+
+
+    <!--section start-->
+    <section class="login-page section-b-space">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6">
+                    <h3>Login</h3>
+                    <div class="theme-card">
+                        <form method="post" 
+                            asp-controller="Users" asp-action="Login"
+                            class="theme-form">
+                            <input asp-for="ReturnUrl" type="hidden" />
+                            <div class="form-group">
+                                <label for="email">Email</label>
+                                <input asp-for="Email"
+                                    type="text" class="form-control" id="email" placeholder="Email" required="">
+                            </div>
+                            <div class="form-group">
+                                <label for="review">Password</label>
+                                <input asp-for="Password"
+                                    type="password" class="form-control" id="review"
+                                    placeholder="Enter your password" required="">
+                            </div>
+                            <button type="submit" class="btn btn-solid">Login</button>
+                        </form>
+                    </div>
+                </div>
+                <div class="col-lg-6 right-login">
+                    <h3>New Customer</h3>
+                    <div class="theme-card authentication-right">
+                        <h6 class="title-font">Create A Account</h6>
+                        <p>Sign up for a free account at our store. Registration is quick and easy. It allows you to be
+                            able to order from our shop. To start shopping click register.</p>
+                        <a  asp-controller="Users" asp-action="Register" asp-route-returnUrl="@Model.ReturnUrl"
+                            class="btn btn-solid">Create an Account</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--Section ends-->
+ *@

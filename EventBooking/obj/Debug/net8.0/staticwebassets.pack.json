@@ -1,0 +1,325 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\EventBooking.bundle.scp.css",
+      "PackagePath": "staticwebassets\\EventBooking.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\wwwroot\\Uploads\\Events\\4cd67db3-b21f-4a81-a14a-89f2857ef2942025510.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\Events\\4cd67db3-b21f-4a81-a14a-89f2857ef2942025510.jpg"
+    },
+    {
+      "Id": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\wwwroot\\Uploads\\Events\\52364057-85b9-4459-85f2-ad8f16dcf6582025511.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\Events\\52364057-85b9-4459-85f2-ad8f16dcf6582025511.jpg"
+    },
+    {
+      "Id": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\wwwroot\\Uploads\\Events\\643ac6d5-bbba-447d-b3cd-306f3279134e2025510.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\Events\\643ac6d5-bbba-447d-b3cd-306f3279134e2025510.jpg"
+    },
+    {
+      "Id": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\wwwroot\\Uploads\\Events\\7c608645-e739-4fa7-95a0-9c6c5f3703932025511.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\Events\\7c608645-e739-4fa7-95a0-9c6c5f3703932025511.jpg"
+    },
+    {
+      "Id": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\wwwroot\\Uploads\\Events\\7e204215-966e-48c3-b5e8-83ea14a49aff2025510.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\Events\\7e204215-966e-48c3-b5e8-83ea14a49aff2025510.jpg"
+    },
+    {
+      "Id": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\wwwroot\\Uploads\\Events\\7f5a523b-ad00-4ae9-8a1e-b1ef9785a7a72025511.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\Events\\7f5a523b-ad00-4ae9-8a1e-b1ef9785a7a72025511.jpg"
+    },
+    {
+      "Id": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\wwwroot\\Uploads\\Events\\8aca3bdc-6f94-4000-81d6-b7917b66aa972025510.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\Events\\8aca3bdc-6f94-4000-81d6-b7917b66aa972025510.jpg"
+    },
+    {
+      "Id": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\wwwroot\\Uploads\\Events\\8fe51d1c-3a7e-4337-a945-b6f212616d4c2025510.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\Events\\8fe51d1c-3a7e-4337-a945-b6f212616d4c2025510.jpg"
+    },
+    {
+      "Id": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\wwwroot\\Uploads\\Events\\bb46bd38-e22d-44ea-a708-4e016437a2992025517.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\Events\\bb46bd38-e22d-44ea-a708-4e016437a2992025517.jpg"
+    },
+    {
+      "Id": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\wwwroot\\Uploads\\Events\\c3a79016-87c4-48c4-b2a4-b202cee16fc52025510.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\Events\\c3a79016-87c4-48c4-b2a4-b202cee16fc52025510.jpg"
+    },
+    {
+      "Id": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\wwwroot\\Uploads\\Events\\cfae0e63-414b-4530-ab18-6173704f4e2d2025510.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\Events\\cfae0e63-414b-4530-ab18-6173704f4e2d2025510.jpg"
+    },
+    {
+      "Id": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\wwwroot\\Uploads\\Events\\dcce3c0a-c4b4-429f-8dde-804408fe36532025510.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\Events\\dcce3c0a-c4b4-429f-8dde-804408fe36532025510.jpg"
+    },
+    {
+      "Id": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\wwwroot\\Uploads\\Events\\ec5d0f15-6ecd-4cfb-91b6-9774ade22cfd2025510.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\Events\\ec5d0f15-6ecd-4cfb-91b6-9774ade22cfd2025510.jpg"
+    },
+    {
+      "Id": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\wwwroot\\Uploads\\Events\\ee812109-dd31-436f-8f9f-8f80bdabaac12025510.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\Events\\ee812109-dd31-436f-8f9f-8f80bdabaac12025510.jpg"
+    },
+    {
+      "Id": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\wwwroot\\Uploads\\Events\\fc29f3f2-9112-4b8c-831e-964eb007c3042025510.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\Events\\fc29f3f2-9112-4b8c-831e-964eb007c3042025510.jpg"
+    },
+    {
+      "Id": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.EventBooking.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.EventBooking.props",
+      "PackagePath": "build\\EventBooking.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.EventBooking.props",
+      "PackagePath": "buildMultiTargeting\\EventBooking.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.EventBooking.props",
+      "PackagePath": "buildTransitive\\EventBooking.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

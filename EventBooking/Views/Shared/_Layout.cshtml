@@ -1,0 +1,65 @@
+﻿@inject SignInManager<ApplicationUser> sinInManager
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Event Booking</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    @* <link rel="stylesheet" href="~/css/site.css" /> *@
+</head>
+<body class="bg-gray-100">
+    <header class="bg-blue-600 text-white p-4">
+        <nav class="container mx-auto flex justify-between items-center">
+            <a href="/" class="text-2xl font-bold">Event Booking</a>
+            <div>
+                <a href="/" class="px-4">Home</a>
+                @if (sinInManager.IsSignedIn(User))
+                {
+                    <a href="/Users/LoginOut" class="px-4">Logout</a>
+                }
+                else
+                {
+                    <a href="/Users/Login" class="px-4">Login</a>
+                }
+            </div>
+        </nav>
+    </header>
+
+    <main class="container mx-auto py-8">
+        @RenderBody()
+    </main>
+     
+    <footer class="bg-gray-800 text-white p-4 text-center">
+        <p>© 2025 Event Booking App</p>
+    </footer>
+    @RenderSection("Scripts", required: false)
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

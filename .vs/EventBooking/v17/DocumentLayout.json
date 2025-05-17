@@ -1,0 +1,869 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\georg\\source\\repos\\EventBooking\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38C2ACA3-E904-4E0F-AD35-99679537704A}|Models\\Models.csproj|c:\\users\\georg\\source\\repos\\eventbooking\\models\\eventdetailsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38C2ACA3-E904-4E0F-AD35-99679537704A}|Models\\Models.csproj|solutionrelative:models\\eventdetailsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38C2ACA3-E904-4E0F-AD35-99679537704A}|Models\\Models.csproj|c:\\users\\georg\\source\\repos\\eventbooking\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38C2ACA3-E904-4E0F-AD35-99679537704A}|Models\\Models.csproj|solutionrelative:models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38C2ACA3-E904-4E0F-AD35-99679537704A}|Models\\Models.csproj|c:\\users\\georg\\source\\repos\\eventbooking\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38C2ACA3-E904-4E0F-AD35-99679537704A}|Models\\Models.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38C2ACA3-E904-4E0F-AD35-99679537704A}|Models\\Models.csproj|c:\\users\\georg\\source\\repos\\eventbooking\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38C2ACA3-E904-4E0F-AD35-99679537704A}|Models\\Models.csproj|solutionrelative:models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38C2ACA3-E904-4E0F-AD35-99679537704A}|Models\\Models.csproj|c:\\users\\georg\\source\\repos\\eventbooking\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38C2ACA3-E904-4E0F-AD35-99679537704A}|Models\\Models.csproj|solutionrelative:models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38C2ACA3-E904-4E0F-AD35-99679537704A}|Models\\Models.csproj|c:\\users\\georg\\source\\repos\\eventbooking\\models\\viewmodels\\pagedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38C2ACA3-E904-4E0F-AD35-99679537704A}|Models\\Models.csproj|solutionrelative:models\\viewmodels\\pagedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{317C521A-E285-425F-89CC-E88706E19FD5}|EventBooking\\EventBooking.csproj|c:\\users\\georg\\source\\repos\\eventbooking\\eventbooking\\views\\users\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{317C521A-E285-425F-89CC-E88706E19FD5}|EventBooking\\EventBooking.csproj|solutionrelative:eventbooking\\views\\users\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{317C521A-E285-425F-89CC-E88706E19FD5}|EventBooking\\EventBooking.csproj|c:\\users\\georg\\source\\repos\\eventbooking\\eventbooking\\views\\users\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{317C521A-E285-425F-89CC-E88706E19FD5}|EventBooking\\EventBooking.csproj|solutionrelative:eventbooking\\views\\users\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{317C521A-E285-425F-89CC-E88706E19FD5}|EventBooking\\EventBooking.csproj|c:\\users\\georg\\source\\repos\\eventbooking\\eventbooking\\views\\booking\\bookingsuccess.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{317C521A-E285-425F-89CC-E88706E19FD5}|EventBooking\\EventBooking.csproj|solutionrelative:eventbooking\\views\\booking\\bookingsuccess.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{317C521A-E285-425F-89CC-E88706E19FD5}|EventBooking\\EventBooking.csproj|c:\\users\\georg\\source\\repos\\eventbooking\\eventbooking\\views\\event\\eventdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{317C521A-E285-425F-89CC-E88706E19FD5}|EventBooking\\EventBooking.csproj|solutionrelative:eventbooking\\views\\event\\eventdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{317C521A-E285-425F-89CC-E88706E19FD5}|EventBooking\\EventBooking.csproj|c:\\users\\georg\\source\\repos\\eventbooking\\eventbooking\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{317C521A-E285-425F-89CC-E88706E19FD5}|EventBooking\\EventBooking.csproj|solutionrelative:eventbooking\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{317C521A-E285-425F-89CC-E88706E19FD5}|EventBooking\\EventBooking.csproj|c:\\users\\georg\\source\\repos\\eventbooking\\eventbooking\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{317C521A-E285-425F-89CC-E88706E19FD5}|EventBooking\\EventBooking.csproj|solutionrelative:eventbooking\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{317C521A-E285-425F-89CC-E88706E19FD5}|EventBooking\\EventBooking.csproj|c:\\users\\georg\\source\\repos\\eventbooking\\eventbooking\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{317C521A-E285-425F-89CC-E88706E19FD5}|EventBooking\\EventBooking.csproj|solutionrelative:eventbooking\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{317C521A-E285-425F-89CC-E88706E19FD5}|EventBooking\\EventBooking.csproj|c:\\users\\georg\\source\\repos\\eventbooking\\eventbooking\\models\\eventcartitemapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{317C521A-E285-425F-89CC-E88706E19FD5}|EventBooking\\EventBooking.csproj|solutionrelative:eventbooking\\models\\eventcartitemapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{317C521A-E285-425F-89CC-E88706E19FD5}|EventBooking\\EventBooking.csproj|c:\\users\\georg\\source\\repos\\eventbooking\\eventbooking\\models\\eventcartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{317C521A-E285-425F-89CC-E88706E19FD5}|EventBooking\\EventBooking.csproj|solutionrelative:eventbooking\\models\\eventcartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{317C521A-E285-425F-89CC-E88706E19FD5}|EventBooking\\EventBooking.csproj|c:\\users\\georg\\source\\repos\\eventbooking\\eventbooking\\models\\eventcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{317C521A-E285-425F-89CC-E88706E19FD5}|EventBooking\\EventBooking.csproj|solutionrelative:eventbooking\\models\\eventcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{317C521A-E285-425F-89CC-E88706E19FD5}|EventBooking\\EventBooking.csproj|c:\\users\\georg\\source\\repos\\eventbooking\\eventbooking\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{317C521A-E285-425F-89CC-E88706E19FD5}|EventBooking\\EventBooking.csproj|solutionrelative:eventbooking\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{317C521A-E285-425F-89CC-E88706E19FD5}|EventBooking\\EventBooking.csproj|c:\\users\\georg\\source\\repos\\eventbooking\\eventbooking\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{317C521A-E285-425F-89CC-E88706E19FD5}|EventBooking\\EventBooking.csproj|solutionrelative:eventbooking\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{317C521A-E285-425F-89CC-E88706E19FD5}|EventBooking\\EventBooking.csproj|c:\\users\\georg\\source\\repos\\eventbooking\\eventbooking\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{317C521A-E285-425F-89CC-E88706E19FD5}|EventBooking\\EventBooking.csproj|solutionrelative:eventbooking\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{317C521A-E285-425F-89CC-E88706E19FD5}|EventBooking\\EventBooking.csproj|c:\\users\\georg\\source\\repos\\eventbooking\\eventbooking\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{317C521A-E285-425F-89CC-E88706E19FD5}|EventBooking\\EventBooking.csproj|solutionrelative:eventbooking\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{317C521A-E285-425F-89CC-E88706E19FD5}|EventBooking\\EventBooking.csproj|c:\\users\\georg\\source\\repos\\eventbooking\\eventbooking\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{317C521A-E285-425F-89CC-E88706E19FD5}|EventBooking\\EventBooking.csproj|solutionrelative:eventbooking\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{317C521A-E285-425F-89CC-E88706E19FD5}|EventBooking\\EventBooking.csproj|c:\\users\\georg\\source\\repos\\eventbooking\\eventbooking\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{317C521A-E285-425F-89CC-E88706E19FD5}|EventBooking\\EventBooking.csproj|solutionrelative:eventbooking\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{317C521A-E285-425F-89CC-E88706E19FD5}|EventBooking\\EventBooking.csproj|c:\\users\\georg\\source\\repos\\eventbooking\\eventbooking\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{317C521A-E285-425F-89CC-E88706E19FD5}|EventBooking\\EventBooking.csproj|solutionrelative:eventbooking\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{317C521A-E285-425F-89CC-E88706E19FD5}|EventBooking\\EventBooking.csproj|c:\\users\\georg\\source\\repos\\eventbooking\\eventbooking\\areas\\admin\\views\\event\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{317C521A-E285-425F-89CC-E88706E19FD5}|EventBooking\\EventBooking.csproj|solutionrelative:eventbooking\\areas\\admin\\views\\event\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{317C521A-E285-425F-89CC-E88706E19FD5}|EventBooking\\EventBooking.csproj|c:\\users\\georg\\source\\repos\\eventbooking\\eventbooking\\areas\\admin\\views\\event\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{317C521A-E285-425F-89CC-E88706E19FD5}|EventBooking\\EventBooking.csproj|solutionrelative:eventbooking\\areas\\admin\\views\\event\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{317C521A-E285-425F-89CC-E88706E19FD5}|EventBooking\\EventBooking.csproj|c:\\users\\georg\\source\\repos\\eventbooking\\eventbooking\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{317C521A-E285-425F-89CC-E88706E19FD5}|EventBooking\\EventBooking.csproj|solutionrelative:eventbooking\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{317C521A-E285-425F-89CC-E88706E19FD5}|EventBooking\\EventBooking.csproj|c:\\users\\georg\\source\\repos\\eventbooking\\eventbooking\\areas\\admin\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{317C521A-E285-425F-89CC-E88706E19FD5}|EventBooking\\EventBooking.csproj|solutionrelative:eventbooking\\areas\\admin\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{317C521A-E285-425F-89CC-E88706E19FD5}|EventBooking\\EventBooking.csproj|c:\\users\\georg\\source\\repos\\eventbooking\\eventbooking\\apicontrollers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{317C521A-E285-425F-89CC-E88706E19FD5}|EventBooking\\EventBooking.csproj|solutionrelative:eventbooking\\apicontrollers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{317C521A-E285-425F-89CC-E88706E19FD5}|EventBooking\\EventBooking.csproj|c:\\users\\georg\\source\\repos\\eventbooking\\eventbooking\\apicontrollers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{317C521A-E285-425F-89CC-E88706E19FD5}|EventBooking\\EventBooking.csproj|solutionrelative:eventbooking\\apicontrollers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F61698FD-D39A-4367-A567-5DE9EC7A00DC}|Bl\\Bl.csproj|c:\\users\\georg\\source\\repos\\eventbooking\\bl\\eventdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F61698FD-D39A-4367-A567-5DE9EC7A00DC}|Bl\\Bl.csproj|solutionrelative:bl\\eventdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F61698FD-D39A-4367-A567-5DE9EC7A00DC}|Bl\\Bl.csproj|c:\\users\\georg\\source\\repos\\eventbooking\\bl\\clscategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F61698FD-D39A-4367-A567-5DE9EC7A00DC}|Bl\\Bl.csproj|solutionrelative:bl\\clscategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F61698FD-D39A-4367-A567-5DE9EC7A00DC}|Bl\\Bl.csproj|c:\\users\\georg\\source\\repos\\eventbooking\\bl\\clsevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F61698FD-D39A-4367-A567-5DE9EC7A00DC}|Bl\\Bl.csproj|solutionrelative:bl\\clsevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{317C521A-E285-425F-89CC-E88706E19FD5}|EventBooking\\EventBooking.csproj|c:\\users\\georg\\source\\repos\\eventbooking\\eventbooking\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{317C521A-E285-425F-89CC-E88706E19FD5}|EventBooking\\EventBooking.csproj|solutionrelative:eventbooking\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38C2ACA3-E904-4E0F-AD35-99679537704A}|Models\\Models.csproj|c:\\users\\georg\\source\\repos\\eventbooking\\models\\models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{38C2ACA3-E904-4E0F-AD35-99679537704A}|Models\\Models.csproj|solutionrelative:models\\models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{317C521A-E285-425F-89CC-E88706E19FD5}|EventBooking\\EventBooking.csproj|c:\\users\\georg\\source\\repos\\eventbooking\\eventbooking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{317C521A-E285-425F-89CC-E88706E19FD5}|EventBooking\\EventBooking.csproj|solutionrelative:eventbooking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{317C521A-E285-425F-89CC-E88706E19FD5}|EventBooking\\EventBooking.csproj|c:\\users\\georg\\source\\repos\\eventbooking\\eventbooking\\eventbooking.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{317C521A-E285-425F-89CC-E88706E19FD5}|EventBooking\\EventBooking.csproj|solutionrelative:eventbooking\\eventbooking.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{317C521A-E285-425F-89CC-E88706E19FD5}|EventBooking\\EventBooking.csproj|c:\\users\\georg\\source\\repos\\eventbooking\\eventbooking\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{317C521A-E285-425F-89CC-E88706E19FD5}|EventBooking\\EventBooking.csproj|solutionrelative:eventbooking\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F61698FD-D39A-4367-A567-5DE9EC7A00DC}|Bl\\Bl.csproj|c:\\users\\georg\\source\\repos\\eventbooking\\bl\\bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F61698FD-D39A-4367-A567-5DE9EC7A00DC}|Bl\\Bl.csproj|solutionrelative:bl\\bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{317C521A-E285-425F-89CC-E88706E19FD5}|EventBooking\\EventBooking.csproj|c:\\users\\georg\\source\\repos\\eventbooking\\eventbooking\\utlities\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{317C521A-E285-425F-89CC-E88706E19FD5}|EventBooking\\EventBooking.csproj|solutionrelative:eventbooking\\utlities\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{317C521A-E285-425F-89CC-E88706E19FD5}|EventBooking\\EventBooking.csproj|c:\\users\\georg\\source\\repos\\eventbooking\\eventbooking\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{317C521A-E285-425F-89CC-E88706E19FD5}|EventBooking\\EventBooking.csproj|solutionrelative:eventbooking\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F61698FD-D39A-4367-A567-5DE9EC7A00DC}|Bl\\Bl.csproj|c:\\users\\georg\\source\\repos\\eventbooking\\bl\\migrations\\20250508223800_create_database_tables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F61698FD-D39A-4367-A567-5DE9EC7A00DC}|Bl\\Bl.csproj|solutionrelative:bl\\migrations\\20250508223800_create_database_tables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{317C521A-E285-425F-89CC-E88706E19FD5}|EventBooking\\EventBooking.csproj|c:\\users\\georg\\source\\repos\\eventbooking\\eventbooking\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{317C521A-E285-425F-89CC-E88706E19FD5}|EventBooking\\EventBooking.csproj|solutionrelative:eventbooking\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F61698FD-D39A-4367-A567-5DE9EC7A00DC}|Bl\\Bl.csproj|c:\\users\\georg\\source\\repos\\eventbooking\\bl\\migrations\\20250509054413_modify1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F61698FD-D39A-4367-A567-5DE9EC7A00DC}|Bl\\Bl.csproj|solutionrelative:bl\\migrations\\20250509054413_modify1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F61698FD-D39A-4367-A567-5DE9EC7A00DC}|Bl\\Bl.csproj|c:\\users\\georg\\source\\repos\\eventbooking\\bl\\migrations\\20250509054133_modify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F61698FD-D39A-4367-A567-5DE9EC7A00DC}|Bl\\Bl.csproj|solutionrelative:bl\\migrations\\20250509054133_modify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F61698FD-D39A-4367-A567-5DE9EC7A00DC}|Bl\\Bl.csproj|c:\\users\\georg\\source\\repos\\eventbooking\\bl\\migrations\\20250509061519_gg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F61698FD-D39A-4367-A567-5DE9EC7A00DC}|Bl\\Bl.csproj|solutionrelative:bl\\migrations\\20250509061519_gg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F61698FD-D39A-4367-A567-5DE9EC7A00DC}|Bl\\Bl.csproj|c:\\users\\georg\\source\\repos\\eventbooking\\bl\\migrations\\20250511025957_userstables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F61698FD-D39A-4367-A567-5DE9EC7A00DC}|Bl\\Bl.csproj|solutionrelative:bl\\migrations\\20250511025957_userstables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F61698FD-D39A-4367-A567-5DE9EC7A00DC}|Bl\\Bl.csproj|c:\\users\\georg\\source\\repos\\eventbooking\\bl\\migrations\\20250511112657_usersbookings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F61698FD-D39A-4367-A567-5DE9EC7A00DC}|Bl\\Bl.csproj|solutionrelative:bl\\migrations\\20250511112657_usersbookings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F61698FD-D39A-4367-A567-5DE9EC7A00DC}|Bl\\Bl.csproj|c:\\users\\georg\\source\\repos\\eventbooking\\bl\\migrations\\20250511112133_userbookingtable12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F61698FD-D39A-4367-A567-5DE9EC7A00DC}|Bl\\Bl.csproj|solutionrelative:bl\\migrations\\20250511112133_userbookingtable12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F61698FD-D39A-4367-A567-5DE9EC7A00DC}|Bl\\Bl.csproj|c:\\users\\georg\\source\\repos\\eventbooking\\bl\\migrations\\20250511111325_userbookingtable1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F61698FD-D39A-4367-A567-5DE9EC7A00DC}|Bl\\Bl.csproj|solutionrelative:bl\\migrations\\20250511111325_userbookingtable1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F61698FD-D39A-4367-A567-5DE9EC7A00DC}|Bl\\Bl.csproj|c:\\users\\georg\\source\\repos\\eventbooking\\bl\\migrations\\20250511111035_userbookingtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F61698FD-D39A-4367-A567-5DE9EC7A00DC}|Bl\\Bl.csproj|solutionrelative:bl\\migrations\\20250511111035_userbookingtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F61698FD-D39A-4367-A567-5DE9EC7A00DC}|Bl\\Bl.csproj|c:\\users\\georg\\source\\repos\\eventbooking\\bl\\migrations\\20250511110602_booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F61698FD-D39A-4367-A567-5DE9EC7A00DC}|Bl\\Bl.csproj|solutionrelative:bl\\migrations\\20250511110602_booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BookingSuccess.cshtml",
+              "DocumentMoniker": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\Views\\Booking\\BookingSuccess.cshtml",
+              "RelativeDocumentMoniker": "EventBooking\\Views\\Booking\\BookingSuccess.cshtml",
+              "ToolTip": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\Views\\Booking\\BookingSuccess.cshtml",
+              "RelativeToolTip": "EventBooking\\Views\\Booking\\BookingSuccess.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABgAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T07:33:52.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\Views\\Users\\Login.cshtml",
+              "RelativeDocumentMoniker": "EventBooking\\Views\\Users\\Login.cshtml",
+              "ToolTip": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\Views\\Users\\Login.cshtml",
+              "RelativeToolTip": "EventBooking\\Views\\Users\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T03:20:00.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\Views\\Users\\Register.cshtml",
+              "RelativeDocumentMoniker": "EventBooking\\Views\\Users\\Register.cshtml",
+              "ToolTip": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\Views\\Users\\Register.cshtml",
+              "RelativeToolTip": "EventBooking\\Views\\Users\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T03:20:59.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PagedResult.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\source\\repos\\EventBooking\\Models\\ViewModels\\PagedResult.cs",
+              "RelativeDocumentMoniker": "Models\\ViewModels\\PagedResult.cs",
+              "ToolTip": "C:\\Users\\georg\\source\\repos\\EventBooking\\Models\\ViewModels\\PagedResult.cs",
+              "RelativeToolTip": "Models\\ViewModels\\PagedResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T16:22:14.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\source\\repos\\EventBooking\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\georg\\source\\repos\\EventBooking\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "Models\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T10:54:23.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\source\\repos\\EventBooking\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "Models\\Booking.cs",
+              "ToolTip": "C:\\Users\\georg\\source\\repos\\EventBooking\\Models\\Booking.cs",
+              "RelativeToolTip": "Models\\Booking.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T10:49:57.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\source\\repos\\EventBooking\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "C:\\Users\\georg\\source\\repos\\EventBooking\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T22:17:11.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\source\\repos\\EventBooking\\Models\\Event.cs",
+              "RelativeDocumentMoniker": "Models\\Event.cs",
+              "ToolTip": "C:\\Users\\georg\\source\\repos\\EventBooking\\Models\\Event.cs",
+              "RelativeToolTip": "Models\\Event.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T04:44:56.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EventDetailsModel.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\source\\repos\\EventBooking\\Models\\EventDetailsModel.cs",
+              "RelativeDocumentMoniker": "Models\\EventDetailsModel.cs",
+              "ToolTip": "C:\\Users\\georg\\source\\repos\\EventBooking\\Models\\EventDetailsModel.cs",
+              "RelativeToolTip": "Models\\EventDetailsModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T12:04:18.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EventDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\Views\\Event\\EventDetails.cshtml",
+              "RelativeDocumentMoniker": "EventBooking\\Views\\Event\\EventDetails.cshtml",
+              "ToolTip": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\Views\\Event\\EventDetails.cshtml",
+              "RelativeToolTip": "EventBooking\\Views\\Event\\EventDetails.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-10T08:30:08.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "EventBooking\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "EventBooking\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-10T06:25:35.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "EventBooking\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "EventBooking\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-10T06:06:04.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "EventBooking\\Models\\UserModel.cs",
+              "ToolTip": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\Models\\UserModel.cs",
+              "RelativeToolTip": "EventBooking\\Models\\UserModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T14:58:43.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EventCartItemApi.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\Models\\EventCartItemApi.cs",
+              "RelativeDocumentMoniker": "EventBooking\\Models\\EventCartItemApi.cs",
+              "ToolTip": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\Models\\EventCartItemApi.cs",
+              "RelativeToolTip": "EventBooking\\Models\\EventCartItemApi.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T14:36:31.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EventCartItem.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\Models\\EventCartItem.cs",
+              "RelativeDocumentMoniker": "EventBooking\\Models\\EventCartItem.cs",
+              "ToolTip": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\Models\\EventCartItem.cs",
+              "RelativeToolTip": "EventBooking\\Models\\EventCartItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T05:42:13.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EventCart.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\Models\\EventCart.cs",
+              "RelativeDocumentMoniker": "EventBooking\\Models\\EventCart.cs",
+              "ToolTip": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\Models\\EventCart.cs",
+              "RelativeToolTip": "EventBooking\\Models\\EventCart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T05:41:44.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\Models\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "EventBooking\\Models\\ApiResponse.cs",
+              "ToolTip": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\Models\\ApiResponse.cs",
+              "RelativeToolTip": "EventBooking\\Models\\ApiResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T05:41:30.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "EventBooking\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "EventBooking\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAkwD8AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T14:47:26.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "EventBooking\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "EventBooking\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T07:30:21.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EventController.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\Controllers\\EventController.cs",
+              "RelativeDocumentMoniker": "EventBooking\\Controllers\\EventController.cs",
+              "ToolTip": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\Controllers\\EventController.cs",
+              "RelativeToolTip": "EventBooking\\Controllers\\EventController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T08:09:51.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\Controllers\\BookingController.cs",
+              "RelativeDocumentMoniker": "EventBooking\\Controllers\\BookingController.cs",
+              "ToolTip": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\Controllers\\BookingController.cs",
+              "RelativeToolTip": "EventBooking\\Controllers\\BookingController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T14:47:41.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\Areas\\admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "EventBooking\\Areas\\admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\Areas\\admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "EventBooking\\Areas\\admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAABrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T23:53:14.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\Areas\\admin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "EventBooking\\Areas\\admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\Areas\\admin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "EventBooking\\Areas\\admin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T23:52:17.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\Areas\\admin\\Views\\Event\\List.cshtml",
+              "RelativeDocumentMoniker": "EventBooking\\Areas\\admin\\Views\\Event\\List.cshtml",
+              "ToolTip": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\Areas\\admin\\Views\\Event\\List.cshtml",
+              "RelativeToolTip": "EventBooking\\Areas\\admin\\Views\\Event\\List.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-09T02:34:43.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\Areas\\admin\\Views\\Event\\Edit.cshtml",
+              "RelativeDocumentMoniker": "EventBooking\\Areas\\admin\\Views\\Event\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\Areas\\admin\\Views\\Event\\Edit.cshtml",
+              "RelativeToolTip": "EventBooking\\Areas\\admin\\Views\\Event\\Edit.cshtml",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAAkAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-09T03:50:01.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\Areas\\admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "EventBooking\\Areas\\admin\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\Areas\\admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "EventBooking\\Areas\\admin\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T23:51:31.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "EventController.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\Areas\\admin\\Controllers\\EventController.cs",
+              "RelativeDocumentMoniker": "EventBooking\\Areas\\admin\\Controllers\\EventController.cs",
+              "ToolTip": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\Areas\\admin\\Controllers\\EventController.cs",
+              "RelativeToolTip": "EventBooking\\Areas\\admin\\Controllers\\EventController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T01:20:33.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "EventsController.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\ApiControllers\\EventsController.cs",
+              "RelativeDocumentMoniker": "EventBooking\\ApiControllers\\EventsController.cs",
+              "ToolTip": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\ApiControllers\\EventsController.cs",
+              "RelativeToolTip": "EventBooking\\ApiControllers\\EventsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T10:06:39.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "BookingsController.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\ApiControllers\\BookingsController.cs",
+              "RelativeDocumentMoniker": "EventBooking\\ApiControllers\\BookingsController.cs",
+              "ToolTip": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\ApiControllers\\BookingsController.cs",
+              "RelativeToolTip": "EventBooking\\ApiControllers\\BookingsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T13:53:21.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "EventDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\source\\repos\\EventBooking\\Bl\\EventDbContext.cs",
+              "RelativeDocumentMoniker": "Bl\\EventDbContext.cs",
+              "ToolTip": "C:\\Users\\georg\\source\\repos\\EventBooking\\Bl\\EventDbContext.cs",
+              "RelativeToolTip": "Bl\\EventDbContext.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAwwCgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T22:03:09.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ClsCategories.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\source\\repos\\EventBooking\\Bl\\ClsCategories.cs",
+              "RelativeDocumentMoniker": "Bl\\ClsCategories.cs",
+              "ToolTip": "C:\\Users\\georg\\source\\repos\\EventBooking\\Bl\\ClsCategories.cs",
+              "RelativeToolTip": "Bl\\ClsCategories.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAA0wAMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T01:37:53.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ClsEvents.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\source\\repos\\EventBooking\\Bl\\ClsEvents.cs",
+              "RelativeDocumentMoniker": "Bl\\ClsEvents.cs",
+              "ToolTip": "C:\\Users\\georg\\source\\repos\\EventBooking\\Bl\\ClsEvents.cs",
+              "RelativeToolTip": "Bl\\ClsEvents.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T00:25:34.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "EventBooking\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "EventBooking\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-08T23:56:05.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Models.csproj",
+              "DocumentMoniker": "C:\\Users\\georg\\source\\repos\\EventBooking\\Models\\Models.csproj",
+              "RelativeDocumentMoniker": "Models\\Models.csproj",
+              "ToolTip": "C:\\Users\\georg\\source\\repos\\EventBooking\\Models\\Models.csproj",
+              "RelativeToolTip": "Models\\Models.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-17T16:21:00.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "20250511112657_usersBookings.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\source\\repos\\EventBooking\\Bl\\Migrations\\20250511112657_usersBookings.cs",
+              "RelativeDocumentMoniker": "Bl\\Migrations\\20250511112657_usersBookings.cs",
+              "ToolTip": "C:\\Users\\georg\\source\\repos\\EventBooking\\Bl\\Migrations\\20250511112657_usersBookings.cs",
+              "RelativeToolTip": "Bl\\Migrations\\20250511112657_usersBookings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T11:26:57.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "20250511112133_userbookingtable12.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\source\\repos\\EventBooking\\Bl\\Migrations\\20250511112133_userbookingtable12.cs",
+              "RelativeDocumentMoniker": "Bl\\Migrations\\20250511112133_userbookingtable12.cs",
+              "ToolTip": "C:\\Users\\georg\\source\\repos\\EventBooking\\Bl\\Migrations\\20250511112133_userbookingtable12.cs",
+              "RelativeToolTip": "Bl\\Migrations\\20250511112133_userbookingtable12.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T11:21:33.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "20250511111325_userbookingtable1.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\source\\repos\\EventBooking\\Bl\\Migrations\\20250511111325_userbookingtable1.cs",
+              "RelativeDocumentMoniker": "Bl\\Migrations\\20250511111325_userbookingtable1.cs",
+              "ToolTip": "C:\\Users\\georg\\source\\repos\\EventBooking\\Bl\\Migrations\\20250511111325_userbookingtable1.cs",
+              "RelativeToolTip": "Bl\\Migrations\\20250511111325_userbookingtable1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T11:13:25.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "20250511111035_userbookingtable.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\source\\repos\\EventBooking\\Bl\\Migrations\\20250511111035_userbookingtable.cs",
+              "RelativeDocumentMoniker": "Bl\\Migrations\\20250511111035_userbookingtable.cs",
+              "ToolTip": "C:\\Users\\georg\\source\\repos\\EventBooking\\Bl\\Migrations\\20250511111035_userbookingtable.cs",
+              "RelativeToolTip": "Bl\\Migrations\\20250511111035_userbookingtable.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T11:10:35.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "20250511110602_booking.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\source\\repos\\EventBooking\\Bl\\Migrations\\20250511110602_booking.cs",
+              "RelativeDocumentMoniker": "Bl\\Migrations\\20250511110602_booking.cs",
+              "ToolTip": "C:\\Users\\georg\\source\\repos\\EventBooking\\Bl\\Migrations\\20250511110602_booking.cs",
+              "RelativeToolTip": "Bl\\Migrations\\20250511110602_booking.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T11:06:03.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\Program.cs",
+              "RelativeDocumentMoniker": "EventBooking\\Program.cs",
+              "ToolTip": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\Program.cs",
+              "RelativeToolTip": "EventBooking\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T22:17:55.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "EventBooking.csproj",
+              "DocumentMoniker": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\EventBooking.csproj",
+              "RelativeDocumentMoniker": "EventBooking\\EventBooking.csproj",
+              "ToolTip": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\EventBooking.csproj",
+              "RelativeToolTip": "EventBooking\\EventBooking.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-08T23:49:50.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "EventBooking\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "EventBooking\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T08:15:21.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "20250511025957_userstables.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\source\\repos\\EventBooking\\Bl\\Migrations\\20250511025957_userstables.cs",
+              "RelativeDocumentMoniker": "Bl\\Migrations\\20250511025957_userstables.cs",
+              "ToolTip": "C:\\Users\\georg\\source\\repos\\EventBooking\\Bl\\Migrations\\20250511025957_userstables.cs",
+              "RelativeToolTip": "Bl\\Migrations\\20250511025957_userstables.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T02:59:57.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Bl.csproj",
+              "DocumentMoniker": "C:\\Users\\georg\\source\\repos\\EventBooking\\Bl\\Bl.csproj",
+              "RelativeDocumentMoniker": "Bl\\Bl.csproj",
+              "ToolTip": "C:\\Users\\georg\\source\\repos\\EventBooking\\Bl\\Bl.csproj",
+              "RelativeToolTip": "Bl\\Bl.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-08T22:15:36.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\Utlities\\Helper.cs",
+              "RelativeDocumentMoniker": "EventBooking\\Utlities\\Helper.cs",
+              "ToolTip": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\Utlities\\Helper.cs",
+              "RelativeToolTip": "EventBooking\\Utlities\\Helper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T04:21:02.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "20250509061519_gg.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\source\\repos\\EventBooking\\Bl\\Migrations\\20250509061519_gg.cs",
+              "RelativeDocumentMoniker": "Bl\\Migrations\\20250509061519_gg.cs",
+              "ToolTip": "C:\\Users\\georg\\source\\repos\\EventBooking\\Bl\\Migrations\\20250509061519_gg.cs",
+              "RelativeToolTip": "Bl\\Migrations\\20250509061519_gg.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T06:15:19.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "20250509054413_modify1.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\source\\repos\\EventBooking\\Bl\\Migrations\\20250509054413_modify1.cs",
+              "RelativeDocumentMoniker": "Bl\\Migrations\\20250509054413_modify1.cs",
+              "ToolTip": "C:\\Users\\georg\\source\\repos\\EventBooking\\Bl\\Migrations\\20250509054413_modify1.cs",
+              "RelativeToolTip": "Bl\\Migrations\\20250509054413_modify1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T05:44:13.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "20250509054133_modify.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\source\\repos\\EventBooking\\Bl\\Migrations\\20250509054133_modify.cs",
+              "RelativeDocumentMoniker": "Bl\\Migrations\\20250509054133_modify.cs",
+              "ToolTip": "C:\\Users\\georg\\source\\repos\\EventBooking\\Bl\\Migrations\\20250509054133_modify.cs",
+              "RelativeToolTip": "Bl\\Migrations\\20250509054133_modify.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T05:41:33.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\Areas\\admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "EventBooking\\Areas\\admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\Areas\\admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "EventBooking\\Areas\\admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-09T02:33:10.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\appsettings.json",
+              "RelativeDocumentMoniker": "EventBooking\\appsettings.json",
+              "ToolTip": "C:\\Users\\georg\\source\\repos\\EventBooking\\EventBooking\\appsettings.json",
+              "RelativeToolTip": "EventBooking\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-08T22:27:50.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "20250508223800_create_database_tables.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\source\\repos\\EventBooking\\Bl\\Migrations\\20250508223800_create_database_tables.cs",
+              "RelativeDocumentMoniker": "Bl\\Migrations\\20250508223800_create_database_tables.cs",
+              "ToolTip": "C:\\Users\\georg\\source\\repos\\EventBooking\\Bl\\Migrations\\20250508223800_create_database_tables.cs",
+              "RelativeToolTip": "Bl\\Migrations\\20250508223800_create_database_tables.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T22:38:01.082Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
